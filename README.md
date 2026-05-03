@@ -19,7 +19,7 @@ Research writing and academic presentation.
 
 #  EXTRACURRICULAR ACTIVITIES 
 - Developed Pet App and academic websites as part of coursework and applied projects.
-- ![Pet App Screenshot](Screenshot 2025-11-27 215750.png)
+- ![Pet App Screenshot](ss.png)
 - Completed multiple advanced online courses from Stanford, Harvard, Coursera, and Kaggle in Python, Machine Learning, Data Analysis, and Artificial Intelligence.
 - Active participation in Olympiads: Mathematics, Biology, and English, strengthening problem-solving and analytical skills.
 - Engaged in independent research and exploration in NLP, Biomedical NLP, and Machine Learning.
